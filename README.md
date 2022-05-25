@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephenNarcisse, a computer-science graduate from CUNY KBCC (3/2/2022)
-- 🌱 I’m currently working through the 100 days of code challenge in Python by Angela Yu while working on becoming a full stack dev.
+- 🌱 After working through 100 days of code, I'm now looking for SWE positions!
 - 📫 Reach me at StephenRNarcisse@gmail.com
 
 <!---
